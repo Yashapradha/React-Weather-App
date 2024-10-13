@@ -21,13 +21,13 @@ A simple weather application built with React that allows users to search for we
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yashapradha/Weather-App-using-React.git
+   git clone https://github.com/Yashapradha/React-Weather-App.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd React-Weather-App
    ```
 
 3. Install the required dependencies:
